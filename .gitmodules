@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LucioGuerra/criminal-cross-2.0-BE
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NachoL24/criminal-cross-2.0-FE
